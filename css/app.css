@@ -1,0 +1,39 @@
+body{
+    background: black;
+}
+
+ul li{
+    display: flex;
+    text-align: center; 
+    margin: 10px; 
+    justify-content: space-evenly; 
+    color: white; 
+    font-size: 20px; 
+}
+li:hover{
+	color: black; 
+}
+img{
+    border-radius: 50%; 
+    height: 320px;
+    width: 250px; 
+}
+.lead{
+    color: white; 
+}
+
+.aboutz{
+	margin: auto;
+}
+
+.jumbotron{
+	background-color: rgb(12, 10, 10); 
+}
+.col-md-3{
+    margin: 10px; 
+}
+
+.list-group-item{
+    color: black; 
+    font-size: 20px;  
+}
