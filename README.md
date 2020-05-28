@@ -1,2 +1,2 @@
-# adhoc-portfolio
-My portfolio specifically for Chicago Digital since I haven't updated my page in a long while :) and also for fun!!!
+# Zeeson-portfolio
+My portfolio as an entry level developer who is full of passion and motivation to do more on daily basis 
